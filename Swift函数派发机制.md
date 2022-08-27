@@ -69,6 +69,7 @@ class ChildClass: ParentClass {
 ```
 
 Swift 会用树来构建这种继承关系:
+
 ![image](https://upload-images.jianshu.io/upload_images/546449-0231dc315d6be4f1.png)
 
 这张图很好地展示了 Swift 如何使用树来构建类和子类.
